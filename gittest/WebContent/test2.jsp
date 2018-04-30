@@ -9,6 +9,7 @@
 <body>
 <%="test2.jsp" %>
  <%="test2.jsp local" %>
-    <%="test2.jsp¼öÁ¤" %>
+    <%="test2.jspÂ¼Ã¶ÃÂ¤" %>
+    <%="test2.jsp pull" %>
 </body>
 </html>
