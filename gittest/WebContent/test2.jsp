@@ -8,6 +8,6 @@
 </head>
 <body>
 <%="test2.jsp" %>
-    <%="test2.jsp" %>
+    <%="test2.jsp수정" %>
 </body>
 </html>
