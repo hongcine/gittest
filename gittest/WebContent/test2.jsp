@@ -9,5 +9,6 @@
 <body>
 <%="test2.jsp" %>
  <%="test2.jsp local" %>
+    <%="test2.jsp¼öÁ¤" %>
 </body>
 </html>
