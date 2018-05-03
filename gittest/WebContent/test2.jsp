@@ -12,5 +12,6 @@
     <%="test2.jsp updatae" %>
     <%="test2.jsp pull" %>
     <%="test2.jsp push" %>
+    <%="test2.jsp push2" %>
 </body>
 </html>
